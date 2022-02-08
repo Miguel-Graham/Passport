@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/migue/CLionProjects/untitled8/main.c
+passport.h
+/cygdrive/c/Users/migue/CLionProjects/untitled8/passport.h
+
+/cygdrive/c/Users/migue/CLionProjects/untitled8/passport.h
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+ctype.h
+-
+errno.h
+-
+math.h
+-
+stdarg.h
+-
+stdlib.h
+-
+time.h
+-
+unistd.h
+-
+assert.h
+-
+limits.h
+-
+stddef.h
+-
+stdint.h
+-
+
